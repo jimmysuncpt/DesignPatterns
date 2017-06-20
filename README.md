@@ -12,3 +12,4 @@ Head First设计模式
 ### [6 命令模式](https://github.com/jimmysuncpt/DesignPatterns/tree/master/src/com/jimmysun/designpatterns/command)<br />
 ### [7 适配器模式](https://github.com/jimmysuncpt/DesignPatterns/tree/master/src/com/jimmysun/designpatterns/adapter)<br />
 ### [8 外观模式](https://github.com/jimmysuncpt/DesignPatterns/tree/master/src/com/jimmysun/designpatterns/facade)<br />
+### [9 模板方法模式](https://github.com/jimmysuncpt/DesignPatterns/tree/master/src/com/jimmysun/designpatterns/templatemethod)<br />
